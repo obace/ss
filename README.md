@@ -9,4 +9,4 @@
 使用 **Root** 用户登录服务器，复制并运行以下命令：
 
 ```bash
-bash <(curl -sL [https://raw.githubusercontent.com/obace/ss/refs/heads/main/install.sh](https://raw.githubusercontent.com/obace/ss/refs/heads/main/install.sh))
+bash <(curl -Ls https://raw.githubusercontent.com/obace/ss/refs/heads/main/install.sh)
